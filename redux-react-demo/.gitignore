@@ -1,0 +1,8 @@
+// ingnore node modules
+node_modules/
+
+// ignore build files
+build/
+dist/
+.DS_Store
+.env
